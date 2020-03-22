@@ -1,0 +1,15 @@
+{
+  "posts": [{
+    "id": 1,
+    "title": "Mock server Data",
+    "author": "Sunil"
+  }],
+  "comments": [{
+    "id": 1,
+    "body": "Superb article",
+    "postId": 1
+  }],
+  "profile": {
+    "name": "Sunil medium blog"
+  }
+}
