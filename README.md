@@ -4,4 +4,4 @@ Step 2. Open terminal and open folder location.
 
 Step 3. npm install
 
-Step 4. json-server --watch db.json OR npm start
+Step 4. yarn start

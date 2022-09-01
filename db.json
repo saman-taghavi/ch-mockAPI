@@ -1,15 +1,168 @@
 {
-  "posts": [{
-    "id": 1,
-    "title": "Mock server Data",
-    "author": "Sunil"
-  }],
-  "comments": [{
-    "id": 1,
-    "body": "Superb article",
-    "postId": 1
-  }],
-  "profile": {
-    "name": "Sunil medium blog"
+  "map": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 2,
+        "fa_name": "نقشه حرم حضرت عباس(ع)",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      },
+      {
+        "id": 1,
+        "fa_name": "نقشه حرم امام حسین(ع)",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      }
+    ]
+  },
+  "guide": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 1,
+        "fa_name": "راهنمای کلمات عربی",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      }
+    ]
+  },
+  "prayer": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 2,
+        "fa_name": "زیارت نامه اربعین",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      },
+      {
+        "id": 1,
+        "fa_name": "زیارت عاشورا",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      }
+    ]
+  },
+  "song": {
+    "message": "ok",
+    "data": [
+      {
+        "id": "2",
+        "fa_name": "عزیزم حسین",
+        "image": "http://box/image/test.png",
+        "singer": "محمد حسین پویانفر",
+        "link": "http://box/song/test.mp3"
+      },
+      {
+        "id": "1",
+        "fa_name": "خطار إجاني",
+        "image": "http://box/image/test.png",
+        "singer": "باسم کربلایی",
+        "link": "http://box/song/test.mp3"
+      }
+    ]
+  },
+  "video": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 1,
+        "fa_name": "من یک کاتولیک هستم",
+        "image": "https://picsum.photos/300/140",
+        "type": "مستند",
+        "link": "https://www.w3schools.com/tags/movie.mp4"
+      },
+      {
+        "id": 1,
+        "fa_name": "من یک کاتولیک هستم",
+        "image": "https://picsum.photos/300/140",
+        "type": "مستند",
+        "link": "https://www.w3schools.com/tags/movie.mp4"
+      }
+    ]
+  },
+  "maps": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 2,
+        "fa_name": "نقشه حرم حضرت عباس(ع)",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      },
+      {
+        "id": 1,
+        "fa_name": "نقشه حرم امام حسین(ع)",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      }
+    ]
+  },
+  "guides": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 1,
+        "fa_name": "راهنمای کلمات عربی",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      }
+    ]
+  },
+  "prayers": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 2,
+        "fa_name": "زیارت نامه اربعین",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      },
+      {
+        "id": 1,
+        "fa_name": "زیارت عاشورا",
+        "image": "http://box/image/test.png",
+        "link": "http://box/pdf/test.pdf"
+      }
+    ]
+  },
+  "songs": {
+    "message": "ok",
+    "data": [
+      {
+        "id": "2",
+        "fa_name": "عزیزم حسین",
+        "image": "http://box/image/test.png",
+        "singer": "محمد حسین پویانفر",
+        "link": "http://box/song/test.mp3"
+      },
+      {
+        "id": "1",
+        "fa_name": "خطار إجاني",
+        "image": "http://box/image/test.png",
+        "singer": "باسم کربلایی",
+        "link": "http://box/song/test.mp3"
+      }
+    ]
+  },
+  "videos": {
+    "message": "ok",
+    "data": [
+      {
+        "id": 1,
+        "fa_name": "من یک کاتولیک هستم",
+        "image": "https://picsum.photos/300/140",
+        "type": "مستند",
+        "link": "https://www.w3schools.com/tags/movie.mp4"
+      },
+      {
+        "id": 1,
+        "fa_name": "من یک کاتولیک هستم",
+        "image": "https://picsum.photos/300/140",
+        "type": "مستند",
+        "link": "https://www.w3schools.com/tags/movie.mp4"
+      }
+    ]
   }
 }
